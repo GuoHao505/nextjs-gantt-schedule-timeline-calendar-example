@@ -1,1 +1,2 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+可以参考例子:https://gantt-schedule-timeline-calendar.neuronet.io/examples
+gitee介绍:https://gitee.com/Ethanyan/gantt-schedule-timeline-calendar/#column-header
